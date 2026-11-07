@@ -1,1 +1,1 @@
-# DizajnProjekt
+# dizajn-projekt
